@@ -8,6 +8,6 @@ Pringle, Catherine M. _Assessing the Conservation Value of Fresh Waters: An Inte
 
 Barlow, Elizabeth. _The Forests and Wetlands of New York City._ Little, Brown and Company, 1971.
 
-##Swamp Mindmap
+## Swamp Mindmap
 
 ![](images/Mindmap.png)
