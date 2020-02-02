@@ -18,7 +18,7 @@ Barlow, Elizabeth. _The Forests and Wetlands of New York City._ Little, Brown an
 **THE GREAT SWAMP** 
 Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining climate change.
 
-	**I.  HISTORY**
+	I.  HISTORY
 		A.  What is a Swamp?
 			1.  Data Sources: https://www.nationalgeographic.org/encyclopedia/swamp/?utm_source=BibblioRCM_Row
 		B.  Brief History of the Great Swamp - wasteland, location, geological makeup 
@@ -26,7 +26,7 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 				a.  reading materials from the GREAT SWAMP
 				b.  https://www.greatswamp.org/history-great-swamp/ ; https://www.fws.gov/refuge/great_swamp/ 	
 	
-	**II.  BIODIVERSITY** 
+	II.  BIODIVERSITY 
 		A.  Vegetation - What has disappeared or appeared?
 		B.  Wildlife - What has disappeared or changed?
 		C.  Insects - What has disappeared or changed?
@@ -40,7 +40,7 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 				3.  https://gisdata-njdep.opendata.arcgis.com/
 				4.  http://www.americaswetlandresources.com/background_facts/links/index.html
 
-	**III.  POLITICS**
+	III.  POLITICS
 		A.  Economics - corporate business growth?
 		B.  Suburban growth - as a result of corporate growth?
 		C.  Brief History, laws and designation of refuge, superfund or national park status 
@@ -53,7 +53,7 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 				6.  NEWSPAPER ARTICLE: Will New Jersey have to kill the Great Swamp to Save it? July 19, 1989
 				7.  NEWSPAPER ARTICLE: history-great-swamp, Program Series Focuses on History of the Great Swamp, Dec 2019.
 
-	**IV.  CULTURE** - maybe this goes first as introduction? Why we’re scared of swamps!  
+	IV.  CULTURE - maybe this goes first as introduction? Why we’re scared of swamps!  
 		A.  Folklore 
 				1. Legends & Lore of Somerset County:: Knitting Betty, the Great Swamp Devil and More Tales from Central New Jersey (American Legends)
 				2. https://www.newjerseyhills.com/the-great-swamp-wildlife-refuge-has-some scary-tales-to/article_b86ed5bc-b5e1-5280-9021-4f8b9e370b21.html 
