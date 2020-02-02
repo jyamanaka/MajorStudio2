@@ -16,7 +16,7 @@ Barlow, Elizabeth. _The Forests and Wetlands of New York City._ Little, Brown an
 ## Swamp Mindmap Outline
 
 **THE GREAT SWAMP** 
-Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining climate change.
+Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining climate change and the health of our environment. Is this a question that can be answered?  Will this be of interest to biologists, conservationists, or just people who are culturally curious?
 
 	I.  HISTORY
 		A.  What is a Swamp?
