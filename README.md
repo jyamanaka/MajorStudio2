@@ -20,14 +20,14 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 
 	I.  HISTORY
 		A.  What is a Swamp?
-			1.  Data Sources:  https://www.nationalgeographic.org/encyclopedia/swamp/?utm_source=BibblioRCM_Row
-		B.  Brief History of the Great Swamp  - (wasteland), location, geological makeup 
+			1.  Data Sources: https://www.nationalgeographic.org/encyclopedia/swamp/?utm_source=BibblioRCM_Row
+		B.  Brief History of the Great Swamp - wasteland, location, geological makeup 
 			1.  Data Sources:  
 				a.  reading materials from the GREAT SWAMP
 				b.  https://www.greatswamp.org/history-great-swamp/ ; https://www.fws.gov/refuge/great_swamp/ 	
 	
 	II.  BIODIVERSITY - 
-		A.  Vegetation - What has disappeared, or appeared?
+		A.  Vegetation - What has disappeared or appeared?
 		B.  Wildlife - What has disappeared or changed?
 		C.  Insects - What has disappeared or changed?
 		D.  Ecosystems - Has the ecosystems changed?
@@ -46,9 +46,9 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 		C.  Brief History, laws and designation of refuge, superfund or national park status 
 		D.  Data Sources: 
 				1.  Surrounding Townships (New Vernon, Basking Ridge, Madison, Long Hill, New Providence, Chatham Township, NJ State
-				2.  BOOK: New Jersey Politics and Government: The Suburbs Come of Age, Barbara G. Salmore, Stephen A. Salmore - 2008 - Political Science 
-				3.  BOOK: New Jersey’s Environments: Past, Present, and Future, Neil M. Maher - 2006 - Nature 
-				4. FILM:  https://njaudubon.org/event/saving-the-great-swamp/ “Saving the Great Swamp: Battle to Defeat the Jetport” a film by Scott Morris 
+				2.  BOOK: New Jersey Politics and Government: The Suburbs Come of Age, Barbara G. Salmore, Stephen A. Salmore 2008 
+				3.  BOOK: New Jersey’s Environments: Past, Present, and Future, Neil M. Maher 2006 
+				4.  FILM: https://njaudubon.org/event/saving-the-great-swamp/ “Saving the Great Swamp: Battle to Defeat the Jetport” a film by Scott Morris 
 				5.  NEWSPAPER ARTICLE: https://timesmachine.nytimes.com/timesmachine/1989/07/19/736789.html? pageNumber=25
 				6.  NEWSPAPER ARTICLE: Will New Jersey have to kill the Great Swamp to Save it? July 19, 1989
 				7.  NEWSPAPER ARTICLE: history-great-swamp, Program Series Focuses on History of the Great Swamp, Dec 2019.
