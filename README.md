@@ -68,3 +68,9 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 ## Form - 1st 'Swamp' Prototype
 
 ![](images/Sketch1.jpg)
+
+## Possible Audiences 
+- Fish & Wildlife Service, The Nature Conservancy, Ecologists, Environmentalists, Biologists, Neighboring NJ Communities
+
+## Possible Takeaway 
+- How Nature and Popular Culture intersect? Make learning fun and entertaining?
