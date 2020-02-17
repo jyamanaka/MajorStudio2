@@ -63,3 +63,8 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 		C.  Music 
 				1. Black snake blues- Jeff Martin 
 				2. Creedence Clearwater Born on the Bayou
+				
+				
+## Form - 1st 'Swamp' Prototype
+
+![](images/Mindmap.png)
