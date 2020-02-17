@@ -67,4 +67,4 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 				
 ## Form - 1st 'Swamp' Prototype
 
-![](images/Mindmap.png)
+![](images/Sketch1.jpg)
