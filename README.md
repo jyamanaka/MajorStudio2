@@ -69,6 +69,7 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 
 ![](images/Sketch1.jpg)
 **Process/Thinking**
+
 A timeline format would scroll right... various forms of data... 2-3 graphs, animation, links to film clips and 'swamp' music, storytelling visual about the fight vs. the jetport.  Another iteration is needed once I have more concrete datasets. 
 
 **Possible Audiences** 
