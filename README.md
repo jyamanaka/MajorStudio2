@@ -65,6 +65,7 @@ Visualizing “An ASPECT (tbd)” of the Great Swamp as a metaphor for examining
 				2. Creedence Clearwater Born on the Bayou
 				
 				
+
 ## Form - 1st 'Swamp' Prototype
 
 ![](images/Sketch1.jpg)
@@ -77,3 +78,26 @@ A timeline format would scroll right... various forms of data... 2-3 graphs, ani
 
 **Possible Takeaway** 
 - How Nature and Popular Culture intersect? Make learning fun and entertaining?
+
+
+## Swamp Prototypes
+
+**Context**
+
+In 1959 with the introduction of the first generation of commercial Jet airliners, the New York Port Authority announced plans to construct a giant 10,000 acre ‘Jetport’ 26 miles west of New York city in a semi-rural area known as the Great Swamp.
+
+In the name of progress, entire small towns would be demolished, and the ecosystem and wildlife would be destroyed.  It seems that swamps are continually viewed as wasteland, and valuable real estate to pave over in the name of commerce and progress.
+
+
+**The Big Idea**
+
+I’d like to show that swamps are a magical place, however are misunderstood and misused.  Can I influence the misperception of swamps and wetlands that exist all around us in the tri-state area? My goal is to show how, through the story of the Great Swamp, the dynamic struggle  to save some of our most misunderstood but valuable of ecosystems.
+
+![](images/Storyboard1.jpg)
+![](images/Storyboard1.png)
+
+![](images/Storyboard2.jpg)
+![](images/Storyboard2.png)
+
+
+
