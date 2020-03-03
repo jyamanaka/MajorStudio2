@@ -94,6 +94,7 @@ In the name of progress, entire small towns would be demolished, and the ecosyst
 Show that swamps are a magical place, however are misunderstood and misused.  Can I influence the misperception of swamps and wetlands that exist all around us in the tri-state area? My goal is to show how, through the story of the Great Swamp, the dynamic struggle  to save some of our most misunderstood but valuable of ecosystems.
 
 
+
 ![](images/Storyboard1.jpg)
 
 ![](images/Storyboard1.png)
