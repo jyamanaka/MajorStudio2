@@ -110,4 +110,4 @@ I created a 'Hero page' that would be the main visualization for this Thesis pro
 
 ![](images/Interface1.jpg)
 
-![](images/Pseudocode.png)
+![](images/Pseudocode.jpg)
