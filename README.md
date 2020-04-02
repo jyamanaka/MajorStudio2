@@ -109,3 +109,5 @@ Show that swamps are a magical place, however are misunderstood and misused.  Ca
 I created a 'Hero page' that would be the main visualization for this Thesis project.  I scrapped the 'scrollytelling' concept and simplified the graphics to a designed and interactive barchart that would be a repository for the data as well as the stories.  Created a Psuedo code (which is still in progress)
 
 ![](images/Interface1.jpg)
+
+![](images/Pseudocode.png)
