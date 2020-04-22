@@ -1,27 +1,3 @@
-
-# swamp-walk
-
-> timeline visualization of The Great Swamp data
-
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
 # MajorStudio2
 ## Citations
 
@@ -136,3 +112,8 @@ I created a 'Hero page' that would be the main visualization for this Thesis pro
 
 ![](images/Pseudocode.png)
 
+## Iterations, iterations. Back to square one.
+
+![](images/sketch3.png)
+
+I went back to the original storyboard.  As COVID-19 became a global pandemic, the swamp became a metaphor as the unseen menace that lies just under the surface.  I decided that it was important to tell the story of the 'demonization' of the swamp - back to the extended timeline series, and a story. I'm going to play with the Illustrator vector files as animated keyframes.
