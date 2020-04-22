@@ -120,4 +120,4 @@ I went back to the original storyboard.  As COVID-19 became a global pandemic, t
 
 **Hero Title Page**
 
-![] (images/previewsm.png)
+![](images/previewsm.png)
