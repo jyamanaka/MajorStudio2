@@ -118,6 +118,8 @@ I created a 'Hero page' that would be the main visualization for this Thesis pro
 
 I went back to the original storyboard.  As COVID-19 became a global pandemic, the swamp became a metaphor as the unseen menace that lies just under the surface.  I decided that it was important to tell the story of the 'demonization' of the swamp - back to the extended timeline series, and a story. I'm going to play with the Illustrator vector files as animated keyframes.
 
+
+
 ## SWAMP WALK
 Unearthing stories about The Great Swamp in New Jersey**
 
