@@ -127,4 +127,4 @@ Unearthing stories about The Great Swamp in New Jersey**
 
 **Hero Title Page**
 
-![](images/previewsm.png)
+![](images/preview.png)
