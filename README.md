@@ -120,8 +120,8 @@ I went back to the original storyboard.  As COVID-19 became a global pandemic, t
 
 
 
-## SWAMP WALK
-Unearthing stories about The Great Swamp in New Jersey**
+## SWAMP WALK: Stepping into the Great Swamp
+Swamps have always been a source of terror and fascination but are actually valuable ecosystems. Swamp Walk uses a storytelling time series to weave together the historical and cultural prejudices and the ecological value of a swamp, along with archival graphics from the jetport battle that took place in The Great Swamp in New Jersey between 1959 to 1970.
 
 
 
