@@ -118,7 +118,7 @@ I created a 'Hero page' that would be the main visualization for this Thesis pro
 
 I went back to the original storyboard.  As COVID-19 became a global pandemic, the swamp became a metaphor as the unseen menace that lies just under the surface.  I decided that it was important to tell the story of the 'demonization' of the swamp - back to the extended timeline series, and a story. I'm going to play with the Illustrator vector files as animated keyframes.
 
-
+# Final Thesis Project
 
 ## SWAMP WALK: Stepping into the Great Swamp
 Swamps have always been a source of terror and fascination but are actually valuable ecosystems. Swamp Walk uses a storytelling time series to weave together the historical and cultural prejudices and the ecological value of a swamp, along with archival graphics from the jetport battle that took place in The Great Swamp in New Jersey between 1959 to 1970.
@@ -131,5 +131,9 @@ Swamps have always been a source of terror and fascination but are actually valu
 ## Screen Captures
 
 ![](images/mapsmall.gif)
+
+
 ![](images/culturesmgif.gif)
+
+
 ![](images/watersmall.gif)
