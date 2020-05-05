@@ -137,3 +137,30 @@ Swamps have always been a source of terror and fascination but are actually valu
 
 
 ![](images/watersmall.gif)
+
+## Data Sources
+
+https://www.fws.gov/wetlands/Data/State-Downloads.html
+
+https://gisdata-njdep.opendata.arcgis.com/datasets/land-use-cover-of-new-jersey-2007-download
+
+https://www.imdb.com/
+
+https://www.spotify.com/us/
+
+https://waterdata.usgs.gov/nwis/monthly?site_no=01379000&agency_cd=USGS&por_01379000_96040=146166,00060,96040,1903-12,2019-07&referred_module=sw&format=html_table&start_dt=1959-01&end_dt=2019-07
+
+## Future Iterations
+
+**Add more Data** 
+- Particularly about the endangered wildlife in The Great Swamp, and the continuing decrease of swamp ecosystems around the world.
+
+**More nuance to the Water Data** 
+- Chemicals, suburban runoff, impervious surfaces.
+
+## Acknowledgements
+
+Thank you to the professors at Parsons: Aaron Hill, Daniel Sauter, Christian Swinehart, Richard The and Alec Barrett; and to both of the graduate classes of 2019/20 for their endless encouragement, and inspiration that comes from seeing their incredible work!
+
+And a special thanks to my children, Kian, Cole and Galen for always keeping it real, and giving me critical and constructive evaluations of my work and my frame of mind (!).
+
