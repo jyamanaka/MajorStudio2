@@ -131,3 +131,4 @@ Swamps have always been a source of terror and fascination but are actually valu
 ## Screen Captures
 
 ![](images/culturesmgif.gif)
+![](images/culturesmgif.gif)
