@@ -153,7 +153,7 @@ https://waterdata.usgs.gov/nwis/monthly?site_no=01379000&agency_cd=USGS&por_0137
 ## Future Iterations
 
 **Add more Data** 
-- Particularly about the endangered wildlife in The Great Swamp, and the continuing decrease of swamp ecosystems around the world.
+- Particularly about the endangered wildlife in The Great Swamp, and the continuing decrease of swamp ecosystems around the world -- this was found to be almost impossible -- confidential because of the sensitivity of people still trying to hunt/sell endangered species on the black market.  This could be its own data viz project.
 
 **More nuance to the Water Data** 
 - Chemicals, suburban runoff, impervious surfaces.
