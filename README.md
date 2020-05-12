@@ -1,5 +1,5 @@
 # MajorStudio2
-## Citations
+## Citations - 1st Steps
 
 Wilson, Anthony. _Swamps._ London, UK: Reaktion Books Ltd, 2018.
 
@@ -160,7 +160,7 @@ https://waterdata.usgs.gov/nwis/monthly?site_no=01379000&agency_cd=USGS&por_0137
 
 ## Acknowledgements
 
-A huge thank you to the inspiring and hard-working professors at Parsons: Aaron Hill, Daniel Sauter, Christian Swinehart, Richard The and Alec Barrett for sharing their immense knowledge and time; and to both of the MS graduate classes of 2019/20 for their endless encouragement, and inspiration that comes from seeing their incredibly amazing work!
+A huge thank you to the inspiring and talented professors at Parsons: Aaron Hill, Daniel Sauter, Christian Swinehart, Richard The and Alec Barrett for sharing their immense knowledge and time; and to both of the MS graduate classes of 2019/20 for their endless encouragement, and inspiration that comes from seeing their incredibly amazing work!
 
 And a special thanks to my children, Kian, Cole and Galen for keeping it real giving me critical and constructive evaluations of my work and most of all always being there -- I dedicate this to them.
 
